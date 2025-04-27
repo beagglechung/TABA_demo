@@ -1,1 +1,1 @@
-"print('user info')" 
+"print('manager update')" 
