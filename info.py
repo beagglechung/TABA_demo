@@ -1,1 +1,1 @@
-"print('manager update')" 
+"print('student update')" 
